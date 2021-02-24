@@ -1,6 +1,6 @@
 function addProperty(obj, key) {
   // your code here
-  obj[key] = "value";
+  obj[key] = true;
   return obj;
 }
 var myObj = {};
